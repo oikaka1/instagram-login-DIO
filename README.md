@@ -1,2 +1,2 @@
-#PROJETO DIGITAL ONE INNOVATIO
-##recriando pagina inicial do Instagram
+PROJETO DIGITAL ONE INNOVATIO
+recriando pagina inicial do Instagram
